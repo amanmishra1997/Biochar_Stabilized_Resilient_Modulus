@@ -2,7 +2,6 @@
 Resilient Modulus prediction using Physics-Informed Machine Learning (PI-MS) for biochar-stabilized soil.
 This repository provides a graphical user interface (GUI) for estimating resilient modulus (MR) of biochar-enhanced soils using laboratory-based soil parameters and physics-informed machine learning techniques.
 
----
 
 # Running the Application
 
@@ -20,7 +19,6 @@ This repository provides a graphical user interface (GUI) for estimating resilie
 - Final_SHAP_Background.pkl  
 - requirements.txt  
 
----
 
 ### 2. Open PowerShell
 
@@ -33,7 +31,6 @@ powershell
 
 Press Enter.
 
----
 
 ### 3. Navigate to the directory containing the files
 
@@ -47,7 +44,6 @@ cd "D:\Biochar_Stabilized_Resilient_Modulus"
 
 Replace the example path with your actual folder location.
 
----
 
 ### 4. Run the application
 
@@ -55,7 +51,6 @@ Execute the following command:
 
 streamlit run app.py
 
----
 
 ### 5. Launching the Interface
 
@@ -65,7 +60,6 @@ The application will automatically open in your browser at:
 
 http://localhost:8501
 
----
 
 # Input Parameters
 
@@ -78,7 +72,6 @@ The graphical interface requires the following input parameters:
 - **sc** — Confining Stress (kPa)  
 - **sd** — Deviator Stress (kPa)  
 
----
 
 # Output
 
@@ -90,7 +83,6 @@ The system generates:
 
 These outputs assist in understanding the relative importance of each input parameter in the prediction process.
 
----
 
 # Notes
 
@@ -98,7 +90,6 @@ These outputs assist in understanding the relative importance of each input para
 - Recommended Python version: **3.9 – 3.11**  
 - The first run may take slightly longer due to model initialization.  
 
----
 
 # Required Software Installation Links
 
@@ -121,15 +112,12 @@ https://docs.streamlit.io/
 
 If you are using **PyCharm** or **VS Code**, the application can also be executed directly from the IDE terminal.
 
----
 
 # About
 
 This project presents a Physics-Informed Machine Learning (PI-MS) based graphical system developed for predicting the Resilient Modulus (MR) of biochar-stabilized soil.
 
 The framework integrates machine learning models, physics-based soil relationships, and explainable artificial intelligence (SHAP) to provide reliable and interpretable predictions suitable for research and engineering applications.
-
----
 
 # Contact
 
@@ -141,4 +129,3 @@ National Institute of Technology (NIT) Raipur, India
 
 📧 Email: amanm2620@gmail.com
 
----
