@@ -1,7 +1,5 @@
 # 🧠 Biochar_Stabilized_Resilient_Modulus
-
 Resilient Modulus prediction using Physics-Informed Machine Learning (PI-MS) for biochar-stabilized soil.
-
 This repository provides a graphical user interface (GUI) for estimating resilient modulus (MR) of biochar-enhanced soils using laboratory-based soil parameters and physics-informed machine learning techniques.
 
 ---
