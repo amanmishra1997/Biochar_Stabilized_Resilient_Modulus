@@ -124,8 +124,8 @@ The framework integrates machine learning models, physics-based soil relationshi
 For technical support, queries, or research collaboration:
 
 **Aman Mishra**  
-PhD Scholar — Geotechnical Engineering  
-National Institute of Technology (NIT) Raipur, India  
+Geotechnical Engineering  
+ Raipur, India  
 
 📧 Email: amanm2620@gmail.com
 
