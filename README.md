@@ -80,6 +80,15 @@ The system provides:
 - Use Python version **3.9–3.11**  
 - First run may take slightly longer  
 
+### Required Software Installation Links:
+
+- Python installation: https://www.python.org/  
+- Anaconda (optional): https://www.anaconda.com/  
+- VS Code: https://code.visualstudio.com/  
+- PyCharm: https://www.jetbrains.com/pycharm/  
+- Streamlit installation guide: https://docs.streamlit.io/  
+
+If you have PyCharm or VS Code, you can also run the file directly from the IDE.
 ---
 
 # About
@@ -93,3 +102,9 @@ The system integrates:
 - Explainable AI (SHAP)
 
 for fast, reliable, and interpretable soil strength prediction.
+If you encounter any issues while using the application, please contact:
+
+**Aman Mishra**  
+Geotechnical Engineering  
+ 
+📧 Email: amanm2620@gmail.com
